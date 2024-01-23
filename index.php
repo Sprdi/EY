@@ -86,10 +86,10 @@
         <div class="col-12 hero-text-image">
           <div class="row">
             <div class="col-lg-8 text-center text-lg-start">
-              <h1 data-aos="fade-right">Website Undangan Pernikahan Digital</h1>
+              <h1 data-aos="fade-right">Website Undangan</br>Pernikahan Digital</h1>
               <p class="mb-5" data-aos="fade-right" data-aos-delay="100">Eternityyours adalah aplikasi pembuatan website undangan online terbaik buatan
                 salah satu anak smk di kota bandung berjurusan pengembangan perangkat lunak dan gim.</p>
-              <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="pricing.php" class="btn btn-outline-white">Buat Sekarang</a></p>
+              <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="design.php" class="btn btn-outline-white">Buat Sekarang</a></p>
             </div>
             <div class="col-lg-4 iphone-wrap">
               <img src="assets/img/mckp2.png" alt="Image" class="phone-1" data-aos="fade-right">
@@ -110,7 +110,7 @@
 
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-5" data-aos="fade-up">
-            <h2 class="section-heading">Save your time to using Eternity Yours</h2>
+            <h2 class="section-heading">Make your invitation more impressive with Eternity Yours</h2>
           </div>
         </div>
 
@@ -121,7 +121,7 @@
                 <i class="bi bi-people"></i>
               </div>
               <h3 class="mb-3">Harga Terjangkau</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <p>Harga terbilang cukup murah, sesuai kebutuhan kalian</p>
             </div>
           </div>
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
@@ -129,8 +129,8 @@
               <div class="wrap-icon icon-1">
                 <i class="bi bi-brightness-high"></i>
               </div>
-              <h3 class="mb-3">Hemat Waktu</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <h3 class="mb-3">Design Keren</h3>
+              <p>Disertai pilihan design design premium dari anggota kami</p>
             </div>
           </div>
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
@@ -139,7 +139,7 @@
                 <i class="bi bi-bar-chart"></i>
               </div>
               <h3 class="mb-3">Proses Cepat</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <p>Proses pembuatan sangat cepat, tidak membuang waktu, buat dadakan pun bisa</p>
             </div>
           </div>
         </div>
@@ -152,7 +152,7 @@
       <div class="container">
         <div class="row justify-content-center text-center mb-5" data-aos="fade">
           <div class="col-md-6 mb-5">
-            <img src="assets/img/undraw_svg_1.svg" alt="Image" class="img-fluid">
+            <img src="assets/img/wedd1.svg" alt="Image" class="img-fluid">
           </div>
         </div>
 
@@ -161,21 +161,21 @@
             <div class="step">
               <span class="number">01</span>
               <h3>Daftar</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <p>Buatlah akun terlebih dulu agar proses pembuatan menjadi mudah.</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="step">
               <span class="number">02</span>
               <h3>Buat Undangan</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <p>Setelah itu pilih design yang di inginkan, lalu buat undangan.</p>
             </div>
           </div>
           <div class="col-md-4">
             <div class="step">
               <span class="number">03</span>
               <h3>Share Undangan</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <p>Jika sudah selesai, undangan siap di share kepada keluarga dan teman anda.</p>
             </div>
           </div>
         </div>
@@ -188,13 +188,11 @@
         <div class="row align-items-center">
           <div class="col-md-4 ms-auto order-2">
             <h2 class="mb-4">Fitur Eternity Yours</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio,
-              laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt
-              dolore mollitia esse natus beatae.</p>
+            <p class="mb-4">Selamat datang di bagian Fitur kami, di mana kemudahan dan keunikan bertemu untuk menciptakan pengalaman undangan yang tak terlupakan. Kami bangga mempersembahkan sejumlah fitur canggih yang dirancang khusus untuk menyederhanakan dan mempersonalisasi proses pengundangan acara Anda.</p>
             <p><a href="features.php" class="btn btn-primary">Lihat Sekarang</a></p>
           </div>
           <div class="col-md-6" data-aos="fade-right">
-            <img src="assets/img/undraw_svg_3.svg" alt="Image" class="img-fluid">
+            <img src="assets/img/fiture.svg" alt="Image" class="img-fluid">
           </div>
         </div>
       </div>
@@ -205,7 +203,7 @@
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-4">
-            <h2 class="section-heading">Review From Our Users</h2>
+            <h2 class="section-heading">Reviews From Customers</h2>
           </div>
         </div>
         <div class="row justify-content-center text-center">
@@ -225,13 +223,37 @@
                     </p>
                     <h3>Best Design!</h3>
                     <blockquote>
-                      <p>Design nya bagus banget, aku sama pasangan ku sangat sukaaa.</p>
+                      <p>Recommended banget buat kamu yang mau bikin undangan digital,<br/> desainnya menyeseuaikan selera kitaaa.</p>
                     </blockquote>
 
                     <p class="review-user">
-                      <img src="assets/img/person_2.jpg" alt="Image" class="img-fluid rounded-circle mb-3">
+                      <img src="assets/img/person_3.jpg" alt="Image" class="img-fluid rounded-circle mb-3">
                       <span class="d-block">
-                        <span class="text-black">Ihsan</span>, &mdash; User
+                        <span class="text-black">Silwi</span>, &mdash; User
+                      </span>
+                    </p>
+
+                  </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                  <div class="review text-center">
+                    <p class="stars">
+                      <span class="bi bi-star-fill"></span>
+                      <span class="bi bi-star-fill"></span>
+                      <span class="bi bi-star-fill"></span>
+                      <span class="bi bi-star-fill"></span>
+                      <span class="bi bi-star-fill"></span>
+                    </p>
+                    <h3>Like it.</h3>
+                    <blockquote>
+                      <p>Jarang jarang saya kasih bintang lima, tapi untuk kali ini top banget<br/> desain hasilnyaa memuaskan, respon cepattt.</p>
+                    </blockquote>
+
+                    <p class="review-user">
+                      <img src="assets/img/person_1.jpg" alt="Image" class="img-fluid rounded-circle mb-3">
+                      <span class="d-block">
+                        <span class="text-black">Silwo</span>, &mdash; User
                       </span>
                     </p>
 
@@ -247,39 +269,15 @@
                       <span class="bi bi-star-fill"></span>
                       <span class="bi bi-star-fill muted"></span>
                     </p>
-                    <h3>Saving time!</h3>
+                    <h3>Nice Design</h3>
                     <blockquote>
-                      <p>Cara buat nya sangat mudah, dan proses nya emang bener bener cepettt.</p>
+                      <p>Recommended!! hasil desain dan undangan sangat bagus<br/> sesuai dengan yang kita inginkan, seller nya baikk ramahh,<br/> pengerjaannya pun cepatt.</p>
                     </blockquote>
 
                     <p class="review-user">
-                      <img src="assets/img/person_2.jpg" alt="Image" class="img-fluid rounded-circle mb-3">
+                      <img src="assets/img/person_1.jpg" alt="Image" class="img-fluid rounded-circle mb-3">
                       <span class="d-block">
-                        <span class="text-black">Icokk</span>, &mdash; User
-                      </span>
-                    </p>
-
-                  </div>
-                </div><!-- End testimonial item -->
-
-                <div class="swiper-slide">
-                  <div class="review text-center">
-                    <p class="stars">
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill muted"></span>
-                    </p>
-                    <h3>Awesome functionality!</h3>
-                    <blockquote>
-                      <p>Sangat berfungsi dengan baik, jauh dari bug bug yang tidak diinginkan.</p>
-                    </blockquote>
-
-                    <p class="review-user">
-                      <img src="assets/img/person_2.jpg" alt="Image" class="img-fluid rounded-circle mb-3">
-                      <span class="d-block">
-                        <span class="text-black">Fasyaa</span>, &mdash; User
+                        <span class="text-black">Salwa</span>, &mdash; User
                       </span>
                     </p>
 

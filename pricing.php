@@ -148,7 +148,7 @@
               </ul>
               <div class="price-cta">
                 <strong class="price">Rp59.999</strong>
-                <p><a href="#" class="btn btn-white">Choose Plan</a></p>
+                <p><a href="#" class="btn btn-white">Pilih Paket</a></p>
               </div>
             </div>
           </div>

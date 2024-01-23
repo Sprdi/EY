@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>SoftLand Bootstrap Template - Contact</title>
+  <title>Eternity Yours</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -42,32 +42,20 @@
     <div class="container d-flex justify-content-between align-items-center">
 
       <div class="logo">
-        <h1><a href="index.php">SoftLand</a></h1>
+        <h1><a href="index.php">Eternity Yours</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="" href="index.php">Home</a></li>
-          <li><a href="features.php">Features</a></li>
-          <li><a href="pricing.php">Pricing</a></li>
-          <li><a href="design.php">Blog</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <li><a class="" href="index.php">Beranda</a></li>
+          <li><a href="features.php">Fitur</a></li>
+          <li><a href="pricing.php">Harga</a></li>
+          <li><a href="design.php">Design</a></li>
+          <li class="dropdown"><a href="#"><span>Akun Saya</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
+              <li><a href="#">Login</a></li>
             </ul>
           </li>
           <li><a class="active" href="contact.php">Contact Us</a></li>
@@ -98,8 +86,8 @@
           <div class="col-12">
             <div class="row justify-content-center">
               <div class="col-md-7 text-center hero-text">
-                <h1 data-aos="fade-up" data-aos-delay="">Get in touch</h1>
-                <p class="mb-5" data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <h1 data-aos="fade-up" data-aos-delay="">Hubungi Kami</h1>
+                <p class="mb-5" data-aos="fade-up" data-aos-delay="100">Jika ada yang bisa kami bantu boleh hubungi kami</p>
               </div>
             </div>
           </div>
@@ -123,16 +111,16 @@
           <div class="col-md-4 ms-auto order-2" data-aos="fade-up">
             <ul class="list-unstyled">
               <li class="mb-3">
-                <strong class="d-block mb-1">Address</strong>
-                <span>203 Fake St. Mountain View, San Francisco, California, USA</span>
+                <strong class="d-block mb-1">Alamat</strong>
+                <span>SMK Prakarya Internasional</span>
               </li>
               <li class="mb-3">
-                <strong class="d-block mb-1">Phone</strong>
-                <span>+1 232 3235 324</span>
+                <strong class="d-block mb-1">No Telepon</strong>
+                <span>+62 812345678</span>
               </li>
               <li class="mb-3">
                 <strong class="d-block mb-1">Email</strong>
-                <span>youremail@domain.com</span>
+                <span>eternity@yours.com</span>
               </li>
             </ul>
           </div>
@@ -176,120 +164,6 @@
       </div>
     </section>
 
-    <!-- ======= Testimonials Section ======= -->
-    <section class="section border-top border-bottom">
-      <div class="container">
-        <div class="row justify-content-center text-center mb-5">
-          <div class="col-md-4">
-            <h2 class="section-heading">Review From Our Users</h2>
-          </div>
-        </div>
-        <div class="row justify-content-center text-center">
-          <div class="col-md-7">
-
-            <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-              <div class="swiper-wrapper">
-
-                <div class="swiper-slide">
-                  <div class="review text-center">
-                    <p class="stars">
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill muted"></span>
-                    </p>
-                    <h3>Excellent App!</h3>
-                    <blockquote>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius ea delectus pariatur, numquam
-                        aperiam dolore nam optio dolorem facilis itaque voluptatum recusandae deleniti minus animi,
-                        provident voluptates consectetur maiores quos.</p>
-                    </blockquote>
-
-                    <p class="review-user">
-                      <img src="assets/img/person_1.jpg" alt="Image" class="img-fluid rounded-circle mb-3">
-                      <span class="d-block">
-                        <span class="text-black">Jean Doe</span>, &mdash; App User
-                      </span>
-                    </p>
-
-                  </div>
-                </div><!-- End testimonial item -->
-
-                <div class="swiper-slide">
-                  <div class="review text-center">
-                    <p class="stars">
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill muted"></span>
-                    </p>
-                    <h3>This App is easy to use!</h3>
-                    <blockquote>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius ea delectus pariatur, numquam
-                        aperiam dolore nam optio dolorem facilis itaque voluptatum recusandae deleniti minus animi,
-                        provident voluptates consectetur maiores quos.</p>
-                    </blockquote>
-
-                    <p class="review-user">
-                      <img src="assets/img/person_2.jpg" alt="Image" class="img-fluid rounded-circle mb-3">
-                      <span class="d-block">
-                        <span class="text-black">Johan Smith</span>, &mdash; App User
-                      </span>
-                    </p>
-
-                  </div>
-                </div><!-- End testimonial item -->
-
-                <div class="swiper-slide">
-                  <div class="review text-center">
-                    <p class="stars">
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill"></span>
-                      <span class="bi bi-star-fill muted"></span>
-                    </p>
-                    <h3>Awesome functionality!</h3>
-                    <blockquote>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius ea delectus pariatur, numquam
-                        aperiam dolore nam optio dolorem facilis itaque voluptatum recusandae deleniti minus animi,
-                        provident voluptates consectetur maiores quos.</p>
-                    </blockquote>
-
-                    <p class="review-user">
-                      <img src="assets/img/person_3.jpg" alt="Image" class="img-fluid rounded-circle mb-3">
-                      <span class="d-block">
-                        <span class="text-black">Jean Thunberg</span>, &mdash; App User
-                      </span>
-                    </p>
-
-                  </div>
-                </div><!-- End testimonial item -->
-
-              </div>
-              <div class="swiper-pagination"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section><!-- End Testimonials Section -->
-
-    <!-- ======= CTA Section ======= -->
-    <section class="section cta-section">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-md-6 me-auto text-center text-md-start mb-5 mb-md-0">
-            <h2>Starts Publishing Your Apps</h2>
-          </div>
-          <div class="col-md-5 text-center text-md-end">
-            <p><a href="#" class="btn d-inline-flex align-items-center"><i class="bx bxl-apple"></i><span>App store</span></a> <a href="#" class="btn d-inline-flex align-items-center"><i class="bx bxl-play-store"></i><span>Google play</span></a></p>
-          </div>
-        </div>
-      </div>
-    </section><!-- End CTA Section -->
-
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
@@ -297,41 +171,33 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4 mb-4 mb-md-0">
-          <h3>About SoftLand</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius ea delectus pariatur, numquam aperiam
-            dolore nam optio dolorem facilis itaque voluptatum recusandae deleniti minus animi.</p>
+          <h3>About Eternity Yours</h3>
+          <p>Website keren buatan rehan anjay Website keren buatan rehan anjay Website keren buatan rehan anjay Website keren buatan rehan anjay Website keren buatan rehan anjay.</p>
           <p class="social">
-            <a href="#"><span class="bi bi-twitter"></span></a>
-            <a href="#"><span class="bi bi-facebook"></span></a>
-            <a href="#"><span class="bi bi-instagram"></span></a>
-            <a href="#"><span class="bi bi-linkedin"></span></a>
+            <a href="https://www.instagram.com/reiikuzoo/"><span class="bi bi-twitter"></span></a>
+            <a href="https://www.instagram.com/reiikuzoo/"><span class="bi bi-facebook"></span></a>
+            <a href="https://www.instagram.com/reiikuzoo/"><span class="bi bi-instagram"></span></a>
+            <a href="https://www.instagram.com/reiikuzoo/"><span class="bi bi-linkedin"></span></a>
           </p>
         </div>
         <div class="col-md-7 ms-auto">
           <div class="row site-section pt-0">
             <div class="col-md-4 mb-4 mb-md-0">
-              <h3>Navigation</h3>
+              <h3>Navigasi</h3>
               <ul class="list-unstyled">
-                <li><a href="#">Pricing</a></li>
-                <li><a href="#">Features</a></li>
-                <li><a href="#">Blog</a></li>
+                <li><a href="#">Harga</a></li>
+                <li><a href="#">Fitur</a></li>
+                <li><a href="#">Design</a></li>
                 <li><a href="#">Contact</a></li>
               </ul>
             </div>
             <div class="col-md-4 mb-4 mb-md-0">
-              <h3>Services</h3>
+              <h3>Servis</h3>
               <ul class="list-unstyled">
                 <li><a href="#">Team</a></li>
                 <li><a href="#">Collaboration</a></li>
                 <li><a href="#">Todos</a></li>
                 <li><a href="#">Events</a></li>
-              </ul>
-            </div>
-            <div class="col-md-4 mb-4 mb-md-0">
-              <h3>Downloads</h3>
-              <ul class="list-unstyled">
-                <li><a href="#">Get from the App Store</a></li>
-                <li><a href="#">Get from the Play Store</a></li>
               </ul>
             </div>
           </div>
@@ -340,7 +206,7 @@
 
       <div class="row justify-content-center text-center">
         <div class="col-md-7">
-          <p class="copyright">&copy; Copyright SoftLand. All Rights Reserved</p>
+          <p class="copyright">&copy; Copyright Eternity Yours. All Rights Reserved</p>
           <div class="credits">
             <!--
             All the links in the footer should remain intact.
@@ -348,7 +214,7 @@
             Licensing information: https://bootstrapmade.com/license/
             Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=SoftLand
           -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            Designed by <a href="https://www.instagram.com/reiikuzoo/">Muhammad Raihan Faris</a>
           </div>
         </div>
       </div>
