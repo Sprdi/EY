@@ -55,7 +55,7 @@
           <li><a href="design.php">Design</a></li>
           <li class="dropdown"><a href="#"><span>Akun Saya</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Login</a></li>
+            <li><a href="wedding-1">Login</a></li>
             </ul>
           </li>
           <li><a href="contact.php">Contact Us</a></li>
@@ -103,10 +103,10 @@
         <div class="row align-items-center">
           <div class="col-md-4 me-auto">
             <h2 class="mb-4">Design Keren & Mantap</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
+            <p class="mb-4">Fitur "Design Keren" menawarkan kumpulan desain yang menarik dan estetis untuk memberikan tampilan visual yang menawan pada undangan digital Anda. Dengan pilihan desain yang kreatif dan modern, Anda dapat memilih yang paling sesuai dengan tema atau gaya acara Anda.</p>
           </div>
           <div class="col-md-6" data-aos="fade-left">
-            <img src="assets/img/undraw_svg_2.svg" alt="Image" class="img-fluid">
+            <img src="assets/img/design.svg" width="400" height="400" alt="Image" class="img-fluid">
           </div>
         </div>
       </div>
@@ -117,10 +117,10 @@
         <div class="row align-items-center">
           <div class="col-md-4 ms-auto order-2">
             <h2 class="mb-4">Full Custom Teks</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
+            <p class="mb-4">Fitur "Full Custom Teks" memberikan kebebasan penuh dalam menyesuaikan teks undangan sesuai keinginan Anda. Mulai dari memilih jenis huruf hingga warna teks, Anda dapat dengan mudah menyelaraskan pesan Anda dengan gaya dan kepribadian acara Anda.</p>
           </div>
           <div class="col-md-6" data-aos="fade-right">
-            <img src="assets/img/undraw_svg_3.svg" alt="Image" class="img-fluid">
+            <img src="assets/img/custom.svg" width="400" height="400" alt="Image" class="img-fluid">
           </div>
         </div>
       </div>
@@ -131,10 +131,10 @@
         <div class="row align-items-center">
           <div class="col-md-4 me-auto">
             <h2 class="mb-4">Navigasi Lokasi</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
+            <p class="mb-4">Dengan fitur "Navigasi Lokasi," undangan digital Anda dapat menyertakan peta interaktif yang memungkinkan para tamu dengan mudah menemukan lokasi acara. Ini memberikan kemudahan navigasi dan membantu tamu tiba dengan tepat waktu.</p>
           </div>
           <div class="col-md-6" data-aos="fade-left">
-            <img src="assets/img/undraw_svg_3.svg" alt="Image" class="img-fluid">
+            <img src="assets/img/locate.svg" width="400" height="400" alt="Image" class="img-fluid">
           </div>
         </div>
       </div>
@@ -145,10 +145,10 @@
         <div class="row align-items-center">
           <div class="col-md-4 ms-auto order-2">
             <h2 class="mb-4">RSVP </h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
+            <p class="mb-4">Fitur "RSVP" memungkinkan undangan digital untuk menyertakan opsi konfirmasi kehadiran. Para tamu dapat dengan mudah memberikan tanggapan mereka secara online, memudahkan Anda dalam perencanaan jumlah undangan dan persiapan acara.</p>
           </div>
           <div class="col-md-6" data-aos="fade-right">
-            <img src="assets/img/undraw_svg_4.svg" alt="Image" class="img-fluid">
+            <img src="assets/img/wedd2.svg" width="400" height="400" alt="Image" class="img-fluid">
           </div>
         </div>
       </div>
@@ -159,10 +159,10 @@
         <div class="row align-items-center">
           <div class="col-md-4 me-auto">
             <h2 class="mb-4">Background Music</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
+            <p class="mb-4">Menghadirkan atmosfer yang lebih hidup, fitur "Background Music" memungkinkan Anda menambahkan musik latar belakang yang sesuai dengan tema acara. Ini memberikan nuansa tambahan dan menciptakan pengalaman audiovisual yang lebih kaya.</p>
           </div>
           <div class="col-md-6" data-aos="fade-left">
-            <img src="assets/img/undraw_svg_3.svg" alt="Image" class="img-fluid">
+            <img src="assets/img/music.jpg" width="400" height="400" alt="Image" class="img-fluid">
           </div>
         </div>
       </div>
@@ -173,10 +173,10 @@
         <div class="row align-items-center">
           <div class="col-md-4 ms-auto order-2">
             <h2 class="mb-4">Galeri Foto </h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
+            <p class="mb-4">"Galeri Foto" memungkinkan Anda membagikan momen-momen spesial atau foto-foto terkait acara secara langsung melalui undangan digital. Tamu dapat dengan mudah melihat dan berbagi kenangan dari acara tersebut.</p>
           </div>
           <div class="col-md-6" data-aos="fade-right">
-            <img src="assets/img/undraw_svg_4.svg" alt="Image" class="img-fluid">
+            <img src="assets/img/galery.svg" width="400" height="400" alt="Image" class="img-fluid">
           </div>
         </div>
       </div>
@@ -187,10 +187,10 @@
         <div class="row align-items-center">
           <div class="col-md-4 me-auto">
             <h2 class="mb-4">Love Stories</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
+            <p class="mb-4"> Fitur "Love Stories" memberikan platform untuk berbagi kisah cinta unik dari pasangan yang merayakan acara tersebut. Dengan memasukkan "Love Stories" ke dalam undangan digital, Anda dapat menambahkan sentuhan pribadi dan emosional pada acara tersebut.</p>
           </div>
           <div class="col-md-6" data-aos="fade-left">
-            <img src="assets/img/undraw_svg_3.svg" alt="Image" class="img-fluid">
+            <img src="assets/img/couple.jpg" width="400" height="400" alt="Image" class="img-fluid">
           </div>
         </div>
       </div>

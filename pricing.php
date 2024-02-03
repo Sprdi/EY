@@ -55,7 +55,7 @@
           <li><a href="design.php">Design</a></li>
           <li class="dropdown"><a href="#"><span>Akun Saya</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Login</a></li>
+            <li><a href="wedding-1">Login</a></li>
             </ul>
           </li>
           <li><a href="contact.php">Contact Us</a></li>
@@ -148,7 +148,7 @@
               </ul>
               <div class="price-cta">
                 <strong class="price">Rp59.999</strong>
-                <p><a href="#" class="btn btn-white">Choose Plan</a></p>
+                <p><a href="#" class="btn btn-white">Pilih Paket</a></p>
               </div>
             </div>
           </div>

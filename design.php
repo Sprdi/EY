@@ -55,7 +55,7 @@
           <li><a class="active" href="design.php">Design</a></li>
           <li class="dropdown"><a href="#"><span>Akun Saya</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Login</a></li>
+            <li><a href="wedding-1">Login</a></li>
             </ul>
           </li>
           <li><a href="contact.php">Contact Us</a></li>
@@ -107,7 +107,8 @@
               </a>
               <div class="post-text">
                 <h3><a href="#">Design Pertama</a></h3>
-                <p><a href="#" class="readmore">Preview Design</a></p>
+                <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="form.php" class="btn btn-outline-red">Buat Sekarang</a></p>
+                <!-- <p><a href="#" class="readmore">Preview Design</a></p> -->
               </div>
             </div>
           </div>
@@ -118,7 +119,8 @@
               </a>
               <div class="post-text">
                 <h3><a href="#">Design Kedua</a></h3>
-                <p><a href="#" class="readmore">Preview Design</a></p>
+                <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="design.php" class="btn btn-outline-red">Buat Sekarang</a></p>
+                <!-- <p><a href="#" class="readmore">Preview Design</a></p> -->
               </div>
             </div>
           </div>
@@ -129,7 +131,8 @@
               </a>
               <div class="post-text">
                 <h3><a href="#">Design Ketiga</a></h3>
-                <p><a href="#" class="readmore">Preview Design</a></p>
+                <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="design.php" class="btn btn-outline-red">Buat Sekarang</a></p>
+                <!-- <p><a href="#" class="readmore">Preview Design</a></p> -->
               </div>
             </div>
           </div>
@@ -141,7 +144,8 @@
               </a>
               <div class="post-text">
                 <h3><a href="#">Design Keempat</a></h3>
-                <p><a href="#" class="readmore">Preview Design</a></p>
+                <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="design.php" class="btn btn-outline-red">Buat Sekarang</a></p>
+                <!-- <p><a href="#" class="readmore">Preview Design</a></p> -->
               </div>
             </div>
           </div>
@@ -152,7 +156,8 @@
               </a>
               <div class="post-text">
                 <h3><a href="#">Design Kelima</a></h3>
-                <p><a href="#" class="readmore">Preview Design</a></p>
+                <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="design.php" class="btn btn-outline-red">Buat Sekarang</a></p>
+                <!-- <p><a href="#" class="readmore">Preview Design</a></p> -->
               </div>
             </div>
           </div>
@@ -163,7 +168,8 @@
               </a>
               <div class="post-text">
                 <h3><a href="#">Design Keenam</a></h3>
-                <p><a href="#" class="readmore">Preview Design</a></p>
+                <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="design.php" class="btn btn-outline-red">Buat Sekarang</a></p>
+                <!-- <p><a href="#" class="readmore">Preview Design</a></p> -->
               </div>
             </div>
           </div>
