@@ -55,7 +55,11 @@
           <li><a href="design.php">Design</a></li>
           <li class="dropdown"><a href="#"><span>Akun Saya</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
+<<<<<<< HEAD
               <li><a href="wedding-1w">Login</a></li>
+=======
+              <li><a href="#">Login</a></li>
+>>>>>>> 29ab0eb79381cf3964960434f129022a993907ee
             </ul>
           </li>
           <li><a class="active" href="contact.php">Contact Us</a></li>
@@ -172,7 +176,12 @@
       <div class="row">
         <div class="col-md-4 mb-4 mb-md-0">
           <h3>About Eternity Yours</h3>
+<<<<<<< HEAD
           <p>Website keren buatan rehan anjay Website keren buatan rehan anjay Website keren buatan rehan anjay Website keren buatan rehan anjay Website keren buatan rehan anjay.</p>
+=======
+          <p>EternityYours adalah aplikasi pembuatan website undangan online terbaik buatan
+            salah satu anak smk di kota bandung berjurusan pengembangan perangkat lunak dan gim.</p>
+>>>>>>> 29ab0eb79381cf3964960434f129022a993907ee
           <p class="social">
             <a href="https://www.instagram.com/reiikuzoo/"><span class="bi bi-twitter"></span></a>
             <a href="https://www.instagram.com/reiikuzoo/"><span class="bi bi-facebook"></span></a>

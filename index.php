@@ -87,7 +87,11 @@
           <div class="row">
             <div class="col-lg-8 text-center text-lg-start">
               <h1 data-aos="fade-right">Website Undangan</br>Pernikahan Digital</h1>
+<<<<<<< HEAD
               <p class="mb-5" data-aos="fade-right" data-aos-delay="100">Eternityyours adalah aplikasi pembuatan website undangan online terbaik buatan
+=======
+              <p class="mb-5" data-aos="fade-right" data-aos-delay="100">EternityYours adalah aplikasi pembuatan website undangan online terbaik buatan
+>>>>>>> 29ab0eb79381cf3964960434f129022a993907ee
                 salah satu anak smk di kota bandung berjurusan pengembangan perangkat lunak dan gim.</p>
               <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="design.php" class="btn btn-outline-white">Buat Sekarang</a></p>
             </div>
@@ -300,7 +304,8 @@
       <div class="row">
         <div class="col-md-4 mb-4 mb-md-0">
           <h3>About Eternity Yours</h3>
-          <p>Website keren buatan rehan anjay Website keren buatan rehan anjay Website keren buatan rehan anjay Website keren buatan rehan anjay Website keren buatan rehan anjay.</p>
+          <p>EternityYours adalah aplikasi pembuatan website undangan online terbaik buatan
+            salah satu anak smk di kota bandung berjurusan pengembangan perangkat lunak dan gim.</p>
           <p class="social">
             <a href="https://www.instagram.com/reiikuzoo/"><span class="bi bi-twitter"></span></a>
             <a href="https://www.instagram.com/reiikuzoo/"><span class="bi bi-facebook"></span></a>
