@@ -107,11 +107,7 @@
               </a>
               <div class="post-text">
                 <h3><a href="#">Design Pertama</a></h3>
-<<<<<<< HEAD
                 <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="form.php" class="btn btn-outline-red">Buat Sekarang</a></p>
-=======
-                <p data-aos="fade-right" data-aos-delay="200" data-aos-offset="-500"><a href="design.php" class="btn btn-outline-red">Buat Sekarang</a></p>
->>>>>>> 29ab0eb79381cf3964960434f129022a993907ee
                 <!-- <p><a href="#" class="readmore">Preview Design</a></p> -->
               </div>
             </div>
